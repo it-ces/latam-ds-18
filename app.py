@@ -9,3 +9,6 @@ import streamlit as st
 from PIL import Image
 img = Image.open("mr.popo.jpg")
 st.image(img)
+
+spartan = Image.open("leonidas")
+st.image(img)
