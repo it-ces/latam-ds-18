@@ -10,5 +10,5 @@ from PIL import Image
 img = Image.open("mr.popo.jpg")
 st.image(img)
 
-spartan = Image.open("leonidas")
-st.image(img)
+st.write("prueba por jc")
+st.write("verificando el punto")
