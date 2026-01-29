@@ -7,5 +7,5 @@ st.write
 
 import streamlit as st
 from PIL import Image
-img = Image.open("tomyjerry.jpg")
+img = Image.open("mr.popo.jpg")
 st.image(img)
